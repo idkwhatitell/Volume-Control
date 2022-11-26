@@ -1,4 +1,4 @@
-# Volume-Control 
+# Volume-Control with Hand Tracking
 
 libraries: 
   # PYCAW
