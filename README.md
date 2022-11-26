@@ -1,6 +1,6 @@
 # Volume-Control with Hand Tracking
 
-libraries: 
+# libraries: 
   # PYCAW
   # NUMPY
   # MEDIAPIPE
